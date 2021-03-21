@@ -19,7 +19,7 @@ GET, POST, PUT, and DELETE inventory on database.
 [Questions](#Questions)
 
 ## Installation
-Install node.js, clone this repo, install dependencies, setup database in MySQL, run application with- npm start.
+Install node.js, clone this repo, install dependencies, setup database in MySQL, seed with- npm run seed, run application with- npm start.
 
 ## Usage
 Users can GET, POST, PUT, and DEL commands to the database using Insomnia.
