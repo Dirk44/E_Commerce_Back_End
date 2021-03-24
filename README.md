@@ -2,6 +2,8 @@
 ![Untitled_ Mar 21, 2021 12_19 PM (3)](https://user-images.githubusercontent.com/67870964/111913022-a07db680-8a42-11eb-900e-64caaa3b3393.gif)
 # e_commerce_backend README
 
+## Link to video: https://drive.google.com/file/d/1kLJ4B1nBrLGqcyoBOV7nMhsEY0u-0iRV/view?usp=sharing
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
